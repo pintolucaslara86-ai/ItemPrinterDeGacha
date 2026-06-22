@@ -1,4 +1,4 @@
-ItemPrinterDeGacha
+master ball ItemPrinterDeGacha
 =====
 Calculation tool for Scarlet/Violet's Item Printer to forecast results from various print jobs.
 
